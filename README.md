@@ -79,3 +79,8 @@ System waits until both sensors return LOW before detecting the next person — 
 - Direction detection using:
   ```c
   pir1_flag, pir2_flag
+
+The full working source code is included in main.c.
+
+...
+

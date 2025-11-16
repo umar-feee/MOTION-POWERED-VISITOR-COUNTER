@@ -82,5 +82,13 @@ System waits until both sensors return LOW before detecting the next person — 
 
 The full working source code is included in main.c.
 
-...
+---
+## 📸 Project Screenshots (Tinkercad)
+
+### 🔹 Screenshot 1  
+![Screenshot 1](images/Screenshot%202025-11-16%20185838.png)
+
+### 🔹 Screenshot 2  
+![Screenshot 2](images/MINI%20PROJECT_2%20MOTION%20POWERED%20VISTOR%20MONITOR%20USING%20BARE-METAL%20LOGIC.png)
+
 
